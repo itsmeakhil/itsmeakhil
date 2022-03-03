@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AKHIL 
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me - akhiledathadan007@gmail.com
 
